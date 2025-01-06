@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 化学78.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.04167in" height="0.937708in"
+		viewBox="0 0 75 67.515" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:url(#grad0-9);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:url(#grad0-13);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-173.94168752371 0.5 0.5)">
+			<stop offset="0" stop-color="#c5b5a2" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#fdefdd" stop-opacity="1"/>
+			<stop offset="0.33" stop-color="#fef0df" stop-opacity="1"/>
+			<stop offset="0.51" stop-color="#deccb6" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#c5b5a2" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#baab98" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#b0a190" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-9" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#b69f75" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#efdab8" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#f0ddbe" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#cdb384" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#b69f75" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#ac966e" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#a28e68" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-13" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#b3a593" stop-opacity="1"/>
+			<stop offset="0.01" stop-color="#fdeeda" stop-opacity="1"/>
+			<stop offset="0.03" stop-color="#e9d7bf" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#e5d3bc" stop-opacity="1"/>
+			<stop offset="0.99" stop-color="#e0ceb8" stop-opacity="1"/>
+			<stop offset="1" stop-color="#a69988" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group3919-1" transform="translate(0.75,-0.75)" v:mID="3919" v:groupContext="group">
+			<title>垃圾处理</title>
+			<g id="shape3920-2" v:mID="3920" v:groupContext="shape" transform="translate(6.8925,-16.755)">
+				<title>shape1</title>
+				<path d="M7.87 67.51 L51.82 67.51 L59.7 20.64 L0 20.64 L7.87 67.51 Z" class="st1"/>
+			</g>
+			<g id="shape3921-6" v:mID="3921" v:groupContext="shape" transform="translate(3.615,-62.34)">
+				<title>shape2</title>
+				<path d="M0.6 63.84 L65.7 63.84 C66 63.84 66.3 64.14 66.3 64.51 L66.3 66.91 C66.3 67.21 66 67.51 65.7 67.51 L0.6
+							 67.51 C0.3 67.51 0 67.21 0 66.91 L0 64.51 C0 64.14 0.3 63.84 0.6 63.84 Z" class="st2"/>
+			</g>
+			<g id="shape3922-10" v:mID="3922" v:groupContext="shape">
+				<title>shape3</title>
+				<path d="M0 50.11 L73.5 50.11 L73.5 67.51 L0 67.51 L0 50.11 Z" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>

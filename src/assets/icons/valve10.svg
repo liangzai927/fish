@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 阀门符号10.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.06358in" height="0.958913in"
+		viewBox="0 0 76.5776 69.0418" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-6);stroke:none;stroke-linecap:butt;stroke-width:0.752583}
+		.st2 {fill:url(#grad0-10);stroke:none;stroke-linecap:butt;stroke-width:0.752583}
+		.st3 {fill:url(#grad0-6);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:url(#grad0-6);stroke:none;stroke-linecap:butt;stroke-width:0.751686}
+		.st5 {fill:url(#grad2-24);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st6 {fill:url(#grad2-28);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-6" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#bda47f" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#ffe0b3" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#ffeed7" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#dfc297" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#c7ad86" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#bca37e" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#b19a77" stop-opacity="1"/>
+			<stop offset="1" stop-color="#cbb189" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-10" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#bda47f" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#ffe0b3" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#ffeed7" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#dfc297" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#c7ad86" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#bca37e" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#b19a77" stop-opacity="1"/>
+			<stop offset="1" stop-color="#cbb189" stop-opacity="1"/>
+		</linearGradient>
+		<radialGradient id="grad2-24" cx="0" cy="1" r="1.4">
+			<stop offset="0" stop-color="#b19a77" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#bca37e" stop-opacity="1"/>
+		</radialGradient>
+		<radialGradient id="grad2-28" cx="0" cy="1" r="1.4">
+			<stop offset="0" stop-color="#e2c499" stop-opacity="1"/>
+			<stop offset="0.55" stop-color="#c0a782" stop-opacity="1"/>
+		</radialGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group68-1" transform="translate(0.525,-0.751685)" v:mID="68" v:groupContext="group">
+			<title>切断式止回阀</title>
+			<g id="group69-2" transform="translate(34.725,-16.1625)" v:mID="69" v:groupContext="group">
+				<title>工作表.69</title>
+				<g id="shape70-3" v:mID="70" v:groupContext="shape"
+						transform="translate(-10.7399,85.2542) rotate(29.8865) scale(1,-1)">
+					<title>shape1</title>
+					<path d="M0 21.55 L4.97 21.55 L4.97 69.04 L0 69.04 L0 21.55 Z" class="st1"/>
+				</g>
+				<g id="shape71-7" v:mID="71" v:groupContext="shape"
+						transform="translate(72.5024,-21.6869) rotate(29.8865) scale(-1,1)">
+					<title>shape2</title>
+					<path d="M0 69.04 L0 64.07 L32.51 64.07 L32.51 69.04 L0 69.04 Z" class="st2"/>
+				</g>
+			</g>
+			<g id="group72-11" v:mID="72" v:groupContext="group">
+				<title>工作表.72</title>
+				<g id="shape73-12" v:mID="73" v:groupContext="shape" transform="translate(5.325,-0.075) scale(-1,1)">
+					<title>shape3</title>
+					<path d="M0 44.29 L5.1 44.29 L5.1 69.04 L0 69.04 L0 44.29 Z" class="st3"/>
+				</g>
+				<g id="shape74-15" v:mID="74" v:groupContext="shape" transform="translate(71.925,-7.275) scale(-1,1)">
+					<title>shape4</title>
+					<path d="M0 44.22 L5.1 44.22 L5.1 69.04 L0 69.04 L0 44.22 Z" class="st3"/>
+				</g>
+				<g id="shape75-18" v:mID="75" v:groupContext="shape"
+						transform="translate(68.0076,70.6953) rotate(-65.2249) scale(1,-1)">
+					<title>shape5</title>
+					<path d="M0 3.95 L5.11 3.95 L5.11 69.04 L0 69.04 L0 3.95 Z" class="st4"/>
+				</g>
+				<g id="shape76-21" v:mID="76" v:groupContext="shape" transform="translate(7.575,-24.3) scale(-1,1)">
+					<title>shape6</title>
+					<path d="M0 61.17 C0 61.17 3.9 61.24 5.78 63.42 C7.58 65.59 7.28 69.04 7.28 69.04 L2.18 69.04 C2.18 69.04 2.18
+								 67.02 0 66.27 L0 61.17 Z" class="st5"/>
+				</g>
+				<g id="shape77-25" v:mID="77" v:groupContext="shape" transform="translate(64.575,130.134) scale(1,-1)">
+					<title>shape7</title>
+					<path d="M0 61.17 C0 61.17 3.9 61.24 5.78 63.42 C7.58 65.59 7.28 69.04 7.28 69.04 L2.18 69.04 C2.18 69.04 2.18
+								 67.02 0 66.27 L0 61.17 Z" class="st6"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 化学30.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.832708in" height="1.62667in"
+		viewBox="0 0 59.955 117.12" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:url(#grad0-12);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:url(#grad0-16);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:url(#grad0-26);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st5 {fill:url(#grad0-30);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#b9b6af" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#f2efe7" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#f7f6f1" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#d3d0c8" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#bcb9b2" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#b1afa8" stop-opacity="1"/>
+			<stop offset="0.97" stop-color="#a7a59f" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0beb6" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-12" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#b9b6af" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#f2efe7" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#f7f6f1" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#d3d0c8" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#bcb9b2" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#b1afa8" stop-opacity="1"/>
+			<stop offset="0.97" stop-color="#a7a59f" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0beb6" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-16" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-162.96822674082 0.5 0.5)">
+			<stop offset="0" stop-color="#b9b6af" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#f2efe7" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#f7f6f1" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#d3d0c8" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#bcb9b2" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#b1afa8" stop-opacity="1"/>
+			<stop offset="0.97" stop-color="#a7a59f" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0beb6" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-26" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-149.51255063286 0.5 0.5)">
+			<stop offset="0" stop-color="#b9b6af" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#f2efe7" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#f7f6f1" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#d3d0c8" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#bcb9b2" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#b1afa8" stop-opacity="1"/>
+			<stop offset="0.97" stop-color="#a7a59f" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0beb6" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-30" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#a7a08d" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#dcd4be" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#ece7dc" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#bfb7a2" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#aaa28f" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#a09987" stop-opacity="1"/>
+			<stop offset="0.97" stop-color="#97907f" stop-opacity="1"/>
+			<stop offset="1" stop-color="#aea693" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group2995-1" transform="translate(0.75,-0.75)" v:mID="2995" v:groupContext="group">
+			<title>简易结晶器2</title>
+			<g id="shape2996-2" v:mID="2996" v:groupContext="shape" transform="translate(5.39568E-14,-84.345)">
+				<title>shape1</title>
+				<path d="M0 102.72 L9.67 102.72 L9.67 117.12 L0 117.12 L0 102.72 Z" class="st1"/>
+			</g>
+			<g id="shape2997-6" v:mID="2997" v:groupContext="shape" transform="translate(5.39568E-14,-62.2125)">
+				<title>shape2</title>
+				<path d="M0 102.72 L9.67 102.72 L9.67 117.12 L0 117.12 L0 102.72 Z" class="st1"/>
+			</g>
+			<g id="shape2998-9" v:mID="2998" v:groupContext="shape" transform="translate(9.105,-50.64)">
+				<title>shape3</title>
+				<path d="M0 57.12 L46.95 57.12 L46.95 117.12 L0 117.12 L0 57.12 Z" class="st2"/>
+			</g>
+			<g id="shape2999-13" v:mID="2999" v:groupContext="shape" transform="translate(9.105,-23.1825)">
+				<title>shape4</title>
+				<path d="M0 89.67 L46.95 89.67 L35.25 117.12 L11.7 117.12 L0 89.67 Z" class="st3"/>
+			</g>
+			<g id="shape3000-17" v:mID="3000" v:groupContext="shape" transform="translate(20.79,-13.59)">
+				<title>shape5</title>
+				<path d="M0 107.52 L23.55 107.52 L23.55 117.12 L0 117.12 L0 107.52 Z" class="st2"/>
+			</g>
+			<g id="shape3001-20" v:mID="3001" v:groupContext="shape" transform="translate(29.13,-2.84217E-14)">
+				<title>shape6</title>
+				<path d="M0 111.04 L6.9 111.04 L6.9 117.12 L0 117.12 L0 111.04 Z" class="st2"/>
+			</g>
+			<g id="shape3002-23" v:mID="3002" v:groupContext="shape" transform="translate(20.79,-6.105)">
+				<title>shape7</title>
+				<path d="M0 109.62 L23.55 109.62 L15.23 117.12 L8.33 117.12 L0 109.62 Z" class="st4"/>
+			</g>
+			<g id="shape3003-27" v:mID="3003" v:groupContext="shape" transform="translate(9.105,-49.815)">
+				<title>shape8</title>
+				<path d="M0 115.47 L46.95 115.47 L46.95 117.12 L0 117.12 L0 115.47 Z" class="st5"/>
+			</g>
+			<g id="shape3004-31" v:mID="3004" v:groupContext="shape" transform="translate(9.315,-109.545)">
+				<title>shape9</title>
+				<path d="M0 115.47 L46.95 115.47 L46.95 117.12 L0 117.12 L0 115.47 Z" class="st5"/>
+			</g>
+			<g id="shape3005-34" v:mID="3005" v:groupContext="shape" transform="translate(7.08,-110.895)">
+				<title>shape10</title>
+				<path d="M0.75 112.39 L50.63 112.39 C51.08 112.39 51.38 112.69 51.38 113.14 L51.38 116.37 C51.38 116.74 51.08 117.12
+							 50.63 117.12 L0.75 117.12 C0.3 117.12 0 116.74 0 116.37 L0 113.14 C0 112.69 0.3 112.39 0.75 112.39 Z"
+						class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 罐24.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.16667in" height="1.7626in"
+		viewBox="0 0 84 126.907" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:url(#grad0-12);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:url(#grad0-16);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:#2e7578;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st5 {fill:#3b9699;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#368688" stop-opacity="1"/>
+			<stop offset="0.03" stop-color="#8ccdcf" stop-opacity="1"/>
+			<stop offset="0.08" stop-color="#49afb2" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#48acaf" stop-opacity="1"/>
+			<stop offset="0.95" stop-color="#46a8ab" stop-opacity="1"/>
+			<stop offset="1" stop-color="#317c7e" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-12" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#2e7578" stop-opacity="1"/>
+			<stop offset="0.03" stop-color="#88bdc0" stop-opacity="1"/>
+			<stop offset="0.08" stop-color="#3f999d" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#3e979b" stop-opacity="1"/>
+			<stop offset="0.95" stop-color="#3c9397" stop-opacity="1"/>
+			<stop offset="1" stop-color="#2a6c6f" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-16" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#368688" stop-opacity="1"/>
+			<stop offset="0.03" stop-color="#8ccdcf" stop-opacity="1"/>
+			<stop offset="0.08" stop-color="#49afb2" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#48acaf" stop-opacity="1"/>
+			<stop offset="0.95" stop-color="#46a8ab" stop-opacity="1"/>
+			<stop offset="1" stop-color="#317c7e" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group5881-1" transform="translate(0.75,-0.75)" v:mID="5881" v:groupContext="group">
+			<title>燃油锅炉2</title>
+			<g id="shape5882-2" v:mID="5882" v:groupContext="shape">
+				<title>shape1</title>
+				<path d="M0 13.66 L82.5 13.66 L82.5 126.91 L0 126.91 L0 13.66 Z" class="st1"/>
+			</g>
+			<g id="shape5883-6" v:mID="5883" v:groupContext="shape" transform="translate(2.9475,-2.8425)">
+				<title>shape2</title>
+				<path d="M0 19.36 L76.58 19.36 L76.58 126.91 L0 126.91 L0 19.36 Z" class="st1"/>
+			</g>
+			<g id="shape5884-9" v:mID="5884" v:groupContext="shape" transform="translate(6.8775,-113.257)">
+				<title>shape3</title>
+				<path d="M3.9 114.76 L64.57 114.76 L68.77 126.91 L0 126.91 L3.9 114.76 Z" class="st2"/>
+			</g>
+			<g id="shape5885-13" v:mID="5885" v:groupContext="shape" transform="translate(3.19744E-14,-80.4675)">
+				<title>shape4</title>
+				<path d="M0 123.08 L82.5 123.08 L82.5 126.91 L0 126.91 L0 123.08 Z" class="st3"/>
+			</g>
+			<g id="shape5886-17" v:mID="5886" v:groupContext="shape" transform="translate(3.19744E-14,-109.425)">
+				<title>shape5</title>
+				<path d="M0 123.08 L82.5 123.08 L82.5 126.91 L0 126.91 L0 123.08 Z" class="st3"/>
+			</g>
+			<g id="shape5887-20" v:mID="5887" v:groupContext="shape" transform="translate(2.9475,-65.8425)">
+				<title>shape6</title>
+				<path d="M0 112.28 L76.58 112.28 L76.58 126.91 L0 126.91 L0 112.28 Z" class="st2"/>
+			</g>
+			<g id="shape5888-23" v:mID="5888" v:groupContext="shape" transform="translate(2.9475,-2.8875)">
+				<title>shape7</title>
+				<path d="M0 112.28 L76.58 112.28 L76.58 126.91 L0 126.91 L0 112.28 Z" class="st2"/>
+			</g>
+			<g id="shape5889-26" v:mID="5889" v:groupContext="shape" transform="translate(17.625,-88.1475)">
+				<title>shape8</title>
+				<path d="M0 109.96 L21.98 109.96 L21.98 126.91 L0 126.91 L0 109.96 Z" class="st4"/>
+			</g>
+			<g id="shape5890-28" v:mID="5890" v:groupContext="shape" transform="translate(42.8925,-88.1475)">
+				<title>shape9</title>
+				<path d="M0 109.96 L21.98 109.96 L21.98 126.91 L0 126.91 L0 109.96 Z" class="st4"/>
+			</g>
+			<g id="shape5891-30" v:mID="5891" v:groupContext="shape">
+				<title>shape10</title>
+				<path d="M0 123.08 L82.5 123.08 L82.5 126.91 L0 126.91 L0 123.08 Z" class="st3"/>
+			</g>
+			<g id="group5892-33" transform="translate(17.565,-89.415)" v:mID="5892" v:groupContext="group">
+				<title>工作表.5892</title>
+				<g id="shape5893-34" v:mID="5893" v:groupContext="shape" transform="translate(1.7175,1.84741E-13)">
+					<title>shape11</title>
+					<path d="M0 112.51 L18.68 112.51 L18.68 126.91 L0 126.91 L0 112.51 Z" class="st5"/>
+				</g>
+				<g id="shape5894-36" v:mID="5894" v:groupContext="shape" transform="translate(19.56,-4.635)">
+					<title>shape12</title>
+					<path d="M0 121.73 L2.47 121.73 L2.47 126.91 L0 126.91 L0 121.73 Z" class="st1"/>
+				</g>
+				<g id="group5895-39" transform="translate(-8.74301E-14,-1.9875)" v:mID="5895" v:groupContext="group">
+					<title>工作表.5895</title>
+					<g id="shape5896-40" v:mID="5896" v:groupContext="shape" transform="translate(2.34812E-14,-8.565)">
+						<title>shape13</title>
+						<path d="M0 125.03 L5.78 125.03 L5.78 126.91 L0 126.91 L0 125.03 Z" class="st1"/>
+					</g>
+					<g id="shape5897-43" v:mID="5897" v:groupContext="shape">
+						<title>shape14</title>
+						<path d="M0 125.03 L5.78 125.03 L5.78 126.91 L0 126.91 L0 125.03 Z" class="st1"/>
+					</g>
+				</g>
+			</g>
+			<g id="group5898-46" transform="translate(42.8625,-89.415)" v:mID="5898" v:groupContext="group">
+				<title>工作表.5898</title>
+				<g id="shape5899-47" v:mID="5899" v:groupContext="shape" transform="translate(1.7175,1.84741E-13)">
+					<title>shape15</title>
+					<path d="M0 112.51 L18.68 112.51 L18.68 126.91 L0 126.91 L0 112.51 Z" class="st5"/>
+				</g>
+				<g id="shape5900-49" v:mID="5900" v:groupContext="shape" transform="translate(19.56,-4.635)">
+					<title>shape16</title>
+					<path d="M0 121.73 L2.47 121.73 L2.47 126.91 L0 126.91 L0 121.73 Z" class="st1"/>
+				</g>
+				<g id="group5901-52" transform="translate(-8.74301E-14,-1.9875)" v:mID="5901" v:groupContext="group">
+					<title>工作表.5901</title>
+					<g id="shape5902-53" v:mID="5902" v:groupContext="shape" transform="translate(2.34812E-14,-8.565)">
+						<title>shape17</title>
+						<path d="M0 125.03 L5.78 125.03 L5.78 126.91 L0 126.91 L0 125.03 Z" class="st1"/>
+					</g>
+					<g id="shape5903-56" v:mID="5903" v:groupContext="shape">
+						<title>shape18</title>
+						<path d="M0 125.03 L5.78 125.03 L5.78 126.91 L0 126.91 L0 125.03 Z" class="st1"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 化学53.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.572917in" height="1.79896in"
+		viewBox="0 0 41.25 129.525" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#6490ae" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#94c7ec" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#cae1f4" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#77aace" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#6997b7" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#638fad" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#5d86a3" stop-opacity="1"/>
+			<stop offset="1" stop-color="#6c9bbb" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group3412-1" transform="translate(0.75,-0.75)" v:mID="3412" v:groupContext="group">
+			<title>搅拌器</title>
+			<g id="shape3413-2" v:mID="3413" v:groupContext="shape" transform="translate(6.18,2.55795E-13)">
+				<title>shape1</title>
+				<path d="M0.53 5.55 L0 125.1 C0 125.1 0.38 129.52 13.73 129.52 C27 129.52 26.85 125.1 27.38 125.1 L27.38 5.55 C27.38
+							 5.55 25.43 1.5 14.03 1.5 C2.63 1.5 0.9 5.55 0.53 5.55 Z" class="st1"/>
+			</g>
+			<g id="shape3414-6" v:mID="3414" v:groupContext="shape" transform="translate(0,-4.455)">
+				<title>shape2</title>
+				<path d="M0.6 127.12 L39.08 127.12 C39.45 127.12 39.75 127.2 39.75 127.35 L39.75 129.22 C39.75 129.37 39.45 129.52
+							 39.08 129.52 L0.6 129.52 C0.3 129.52 0 129.37 0 129.22 L0 127.35 C0 127.2 0.3 127.12 0.6 127.12 Z"
+						class="st1"/>
+			</g>
+			<g id="shape3415-9" v:mID="3415" v:groupContext="shape" transform="translate(0,-121.192)">
+				<title>shape3</title>
+				<path d="M0.6 127.12 L39.08 127.12 C39.45 127.12 39.75 127.2 39.75 127.35 L39.75 129.22 C39.75 129.37 39.45 129.52
+							 39.08 129.52 L0.6 129.52 C0.3 129.52 0 129.37 0 129.22 L0 127.35 C0 127.2 0.3 127.12 0.6 127.12 Z"
+						class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

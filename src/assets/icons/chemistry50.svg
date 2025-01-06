@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 化学50svg.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.65625in" height="1.725in"
+		viewBox="0 0 47.25 124.2" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:url(#grad0-9);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#c2b39f" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#fdead3" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#fdeedb" stop-opacity="1"/>
+			<stop offset="0.44" stop-color="#deccb6" stop-opacity="1"/>
+			<stop offset="0.6" stop-color="#c5b5a2" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#a69988" stop-opacity="1"/>
+			<stop offset="0.97" stop-color="#988c7c" stop-opacity="1"/>
+			<stop offset="1" stop-color="#cabaa5" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-9" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#b39d73" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#ebd0a1" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#edd4aa" stop-opacity="1"/>
+			<stop offset="0.44" stop-color="#cdb384" stop-opacity="1"/>
+			<stop offset="0.6" stop-color="#b69f75" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#9a8662" stop-opacity="1"/>
+			<stop offset="0.97" stop-color="#8c7a59" stop-opacity="1"/>
+			<stop offset="1" stop-color="#baa378" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group3399-1" transform="translate(0.75,-0.75)" v:mID="3399" v:groupContext="group">
+			<title>重沸器</title>
+			<g id="shape3400-2" v:mID="3400" v:groupContext="shape" transform="translate(1.965,-1.84741E-13)">
+				<title>shape1</title>
+				<path d="M0 14.1 C0 14.1 0 1.5 20.78 1.5 C41.63 1.5 42 14.1 42 14.1 L42 111.75 C42 111.75 41.33 124.2 20.93 124.2
+							 C0.45 124.2 0 111.75 0 111.75 L0 14.1 Z" class="st1"/>
+			</g>
+			<g id="shape3401-6" v:mID="3401" v:groupContext="shape" transform="translate(0,-104.7)">
+				<title>shape2</title>
+				<path d="M0.75 122.25 L45 122.25 C45.45 122.25 45.75 122.63 45.75 123.08 C45.75 123.83 45.45 124.2 45 124.2 L0.75
+							 124.2 C0.37 124.2 0 123.83 0 123.3 C0 122.63 0.37 122.25 0.75 122.25 Z" class="st2"/>
+			</g>
+			<g id="shape3402-10" v:mID="3402" v:groupContext="shape" transform="translate(0,-18.3225)">
+				<title>shape3</title>
+				<path d="M0.75 122.25 L45 122.25 C45.45 122.25 45.75 122.63 45.75 123.08 C45.75 123.83 45.45 124.2 45 124.2 L0.75
+							 124.2 C0.37 124.2 0 123.83 0 123.3 C0 122.63 0.37 122.25 0.75 122.25 Z" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

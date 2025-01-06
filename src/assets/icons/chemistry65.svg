@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 化学65.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.645208in" height="1.78667in"
+		viewBox="0 0 46.455 128.64" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#97aa93" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#d0e8cb" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#e5f2e2" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#b3c9ae" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#9fb39b" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#96a992" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#8e9f89" stop-opacity="1"/>
+			<stop offset="1" stop-color="#a3b79e" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group3611-1" transform="translate(0.75,-0.75)" v:mID="3611" v:groupContext="group">
+			<title>稳定塔</title>
+			<g id="shape3612-2" v:mID="3612" v:groupContext="shape" transform="translate(2.39808E-14,-118.365)">
+				<title>shape1</title>
+				<path d="M22.58 119.87 C44.93 119.94 44.93 128.64 44.93 128.64 L0 128.64 C0 128.64 0.3 119.79 22.58 119.87 Z"
+						class="st1"/>
+			</g>
+			<g id="shape3613-6" v:mID="3613" v:groupContext="shape">
+				<title>shape2</title>
+				<path d="M0 119.87 L44.92 119.87 C44.92 119.87 45.52 128.64 22.87 128.64 C0.3 128.64 0 119.87 0 119.87 Z"
+						class="st1"/>
+			</g>
+			<g id="shape3614-9" v:mID="3614" v:groupContext="shape" transform="translate(0.03,-8.7525)">
+				<title>shape3</title>
+				<path d="M0 18.99 L44.93 18.99 L44.93 128.64 L0 128.64 L0 18.99 Z" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

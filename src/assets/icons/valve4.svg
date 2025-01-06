@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 阀门符号4.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.0625in" height="1.0625in" viewBox="0 0 76.5 76.5"
+		xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:#9d9b6a;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#adab86" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#ebe9bb" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#f4f2db" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#cdca9f" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#b6b48d" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#acaa85" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#a2a07d" stop-opacity="1"/>
+			<stop offset="1" stop-color="#bab890" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group21-1" transform="translate(0.75,-0.75)" v:mID="21" v:groupContext="group">
+			<title>四通阀</title>
+			<g id="shape22-2" v:mID="22" v:groupContext="shape">
+				<title>shape1</title>
+				<path d="M37.5 39 L0 76.5 L75 76.5 L37.5 39 Z" class="st1"/>
+			</g>
+			<g id="shape23-6" v:mID="23" v:groupContext="shape" transform="translate(76.575,76.5) rotate(90) scale(-1,1)">
+				<title>shape2</title>
+				<path d="M37.5 39 L0 76.5 L75 76.5 L37.5 39 Z" class="st1"/>
+			</g>
+			<g id="shape24-9" v:mID="24" v:groupContext="shape" transform="translate(-1.5,76.5) rotate(-90)">
+				<title>shape3</title>
+				<path d="M37.5 39 L0 76.5 L75 76.5 L37.5 39 Z" class="st1"/>
+			</g>
+			<g id="shape25-12" v:mID="25" v:groupContext="shape" transform="translate(-4.79616E-14,78) scale(1,-1)">
+				<title>shape4</title>
+				<path d="M37.5 39 L0 76.5 L75 76.5 L37.5 39 Z" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

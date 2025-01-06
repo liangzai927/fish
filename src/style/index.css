@@ -1,0 +1,21 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  touch-action: none;
+  /* 禁止双指缩放 */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.df {
+  display: flex;
+}

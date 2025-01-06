@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 阀门符号.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.21821in" height="1.06302in"
+		viewBox="0 0 87.711 76.5375" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:url(#grad0-9);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:url(#grad0-19);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:url(#grad0-19);stroke:none;stroke-linecap:butt;stroke-width:0.753069}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#adab86" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#ebe9bb" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#f4f2db" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#cdca9f" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#b6b48d" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#acaa85" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#a2a07d" stop-opacity="1"/>
+			<stop offset="1" stop-color="#bab890" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-9" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#adab86" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#ebe9bb" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#f4f2db" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#cdca9f" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#b6b48d" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#acaa85" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#a2a07d" stop-opacity="1"/>
+			<stop offset="1" stop-color="#bab890" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-19" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#9f9c79" stop-opacity="1"/>
+			<stop offset="0.01" stop-color="#e7e4c1" stop-opacity="1"/>
+			<stop offset="0.02" stop-color="#cfcb9f" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#ccc89c" stop-opacity="1"/>
+			<stop offset="0.99" stop-color="#c7c499" stop-opacity="1"/>
+			<stop offset="1" stop-color="#939170" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group1-1" transform="translate(0.75,-0.75)" v:mID="1" v:groupContext="group">
+			<title>三通电磁复位阀</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape" transform="translate(26.0325,-10.62)">
+				<title>shape1</title>
+				<path d="M0 25.31 L4.87 25.31 L4.87 76.54 L0 76.54 L0 25.31 Z" class="st1"/>
+			</g>
+			<g id="shape3-6" v:mID="3" v:groupContext="shape" transform="translate(28.425,-0.0375) scale(-1,1)">
+				<title>shape2</title>
+				<path d="M28.42 55.24 L28.42 76.54 L0 65.96 L28.42 55.24 Z" class="st2"/>
+			</g>
+			<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(28.5375,-0.045)">
+				<title>shape3</title>
+				<path d="M28.42 55.24 L28.42 76.54 L0 65.96 L28.42 55.24 Z" class="st2"/>
+			</g>
+			<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(30.7575,-43.4475)">
+				<title>shape4</title>
+				<path d="M33.22 71.66 L33.22 76.54 L0 76.54 L0 71.66 L33.22 71.66 Z" class="st2"/>
+			</g>
+			<g id="shape6-16" v:mID="6" v:groupContext="shape" transform="translate(17.46,-52.9875)">
+				<title>shape5</title>
+				<path d="M1.42 54.49 L20.55 54.49 C21.37 54.49 22.05 55.16 22.05 55.99 L22.05 75.04 C22.05 75.86 21.37 76.54 20.55
+							 76.54 L1.42 76.54 C0.67 76.54 0 75.86 0 75.04 L0 55.99 C0 55.16 0.67 54.49 1.42 54.49 Z" class="st3"/>
+			</g>
+			<g id="shape7-20" v:mID="7" v:groupContext="shape">
+				<title>shape6</title>
+				<path d="M28.42 65.89 L56.92 76.54 L0 76.54 L28.42 65.89 Z" class="st1"/>
+			</g>
+			<g id="shape8-23" v:mID="8" v:groupContext="shape" transform="translate(17.1853,-7.78969) rotate(-45)">
+				<title>shape7</title>
+				<path d="M1.43 54.4 L20.63 54.4 C21.46 54.4 22.14 55.08 22.14 55.9 L22.14 75.03 C22.14 75.86 21.46 76.54 20.63 76.54
+							 L1.43 76.54 C0.68 76.54 0 75.86 0 75.03 L0 55.9 C0 55.08 0.68 54.4 1.43 54.4 Z" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

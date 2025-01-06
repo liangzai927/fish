@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 化学9.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.4375in" height="1.79156in"
+		viewBox="0 0 31.5 128.993" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#c5b5a2" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#fdefdd" stop-opacity="1"/>
+			<stop offset="0.25" stop-color="#fef0df" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#deccb6" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#c5b5a2" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#baab98" stop-opacity="1"/>
+			<stop offset="0.92" stop-color="#b0a190" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group2087-1" transform="translate(0.75,-0.75)" v:mID="2087" v:groupContext="group">
+			<title>结晶器4</title>
+			<g id="shape2088-2" v:mID="2088" v:groupContext="shape" transform="translate(5.745,-46.1175)">
+				<title>shape1</title>
+				<path d="M9.52 47.62 C15.22 47.62 18.6 50.69 18.6 51.97 L18.6 126.67 C18.6 127.94 17.62 128.99 16.35 128.99 L2.25
+							 128.99 C0.97 128.99 0 127.94 0 126.67 L0 51.97 C0 50.69 3.75 47.62 9.52 47.62 Z" class="st1"/>
+			</g>
+			<g id="shape2089-6" v:mID="2089" v:groupContext="shape">
+				<title>shape2</title>
+				<path d="M2.25 66.14 L27.75 66.14 C28.95 66.14 30 67.19 30 68.39 L30 126.67 C30 127.94 28.95 128.99 27.75 128.99
+							 L2.25 128.99 C0.97 128.99 0 127.94 0 126.67 L0 68.39 C0 67.19 0.97 66.14 2.25 66.14 Z" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

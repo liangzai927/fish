@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 化学33.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.632292in" height="1.40219in"
+		viewBox="0 0 45.525 100.957" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:url(#grad0-9);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:url(#grad0-13);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:url(#grad0-39);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#368688" stop-opacity="1"/>
+			<stop offset="0.03" stop-color="#8ccdcf" stop-opacity="1"/>
+			<stop offset="0.08" stop-color="#49afb2" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#48acaf" stop-opacity="1"/>
+			<stop offset="0.94" stop-color="#46a8ab" stop-opacity="1"/>
+			<stop offset="1" stop-color="#317c7e" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-9" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#2f7c81" stop-opacity="1"/>
+			<stop offset="0.03" stop-color="#89c4c9" stop-opacity="1"/>
+			<stop offset="0.08" stop-color="#40a3a9" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#3fa0a6" stop-opacity="1"/>
+			<stop offset="0.94" stop-color="#3d9ca3" stop-opacity="1"/>
+			<stop offset="1" stop-color="#2b7378" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-13" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#2f7c81" stop-opacity="1"/>
+			<stop offset="0.03" stop-color="#89c4c9" stop-opacity="1"/>
+			<stop offset="0.08" stop-color="#40a3a9" stop-opacity="1"/>
+			<stop offset="0.64" stop-color="#3fa0a6" stop-opacity="1"/>
+			<stop offset="0.94" stop-color="#3d9ca3" stop-opacity="1"/>
+			<stop offset="1" stop-color="#2b7378" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-39" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-180 0.5 0.5)">
+			<stop offset="0" stop-color="#358385" stop-opacity="1"/>
+			<stop offset="0.15" stop-color="#95d0d2" stop-opacity="1"/>
+			<stop offset="0.52" stop-color="#409b9e" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#37888a" stop-opacity="1"/>
+			<stop offset="0.8" stop-color="#30797b" stop-opacity="1"/>
+			<stop offset="0.95" stop-color="#2c7173" stop-opacity="1"/>
+			<stop offset="1" stop-color="#37888a" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group3032-1" transform="translate(0.75,-0.75)" v:mID="3032" v:groupContext="group">
+			<title>直燃式焚烧炉</title>
+			<g id="shape3033-2" v:mID="3033" v:groupContext="shape" transform="translate(1.98,-4.23)">
+				<title>shape1</title>
+				<path d="M0 27.91 L40.13 27.91 L40.13 100.96 L0 100.96 L0 27.91 Z" class="st1"/>
+			</g>
+			<g id="shape3034-6" v:mID="3034" v:groupContext="shape" transform="translate(1.1191E-13,-73.125)">
+				<title>shape2</title>
+				<path d="M0 99.46 L44.03 99.46 L44.03 100.96 L0 100.96 L0 99.46 Z" class="st2"/>
+			</g>
+			<g id="shape3035-10" v:mID="3035" v:groupContext="shape" transform="translate(15.525,-61.9125)">
+				<title>shape3</title>
+				<path d="M0 92.11 L12.97 92.11 L12.97 100.96 L0 100.96 L0 92.11 Z" class="st3"/>
+			</g>
+			<g id="shape3036-14" v:mID="3036" v:groupContext="shape" transform="translate(1.1191E-13,-54.6975)">
+				<title>shape4</title>
+				<path d="M0 99.46 L44.03 99.46 L44.03 100.96 L0 100.96 L0 99.46 Z" class="st2"/>
+			</g>
+			<g id="shape3037-17" v:mID="3037" v:groupContext="shape" transform="translate(15.525,-43.485)">
+				<title>shape5</title>
+				<path d="M0 92.11 L12.97 92.11 L12.97 100.96 L0 100.96 L0 92.11 Z" class="st3"/>
+			</g>
+			<g id="shape3038-20" v:mID="3038" v:groupContext="shape" transform="translate(1.1191E-13,-21.33)">
+				<title>shape6</title>
+				<path d="M0 99.46 L44.03 99.46 L44.03 100.96 L0 100.96 L0 99.46 Z" class="st2"/>
+			</g>
+			<g id="shape3039-23" v:mID="3039" v:groupContext="shape" transform="translate(1.98,-77.2725)">
+				<title>shape7</title>
+				<path d="M13.12 97.43 L27 97.43 L40.13 100.96 L0 100.96 L13.12 97.43 Z" class="st1"/>
+			</g>
+			<g id="shape3040-26" v:mID="3040" v:groupContext="shape" transform="translate(15.09,-80.82)">
+				<title>shape8</title>
+				<path d="M0 87.23 L13.87 87.23 L13.87 100.96 L0 100.96 L0 87.23 Z" class="st1"/>
+			</g>
+			<g id="shape3041-29" v:mID="3041" v:groupContext="shape" transform="translate(13.4925,-82.5825)">
+				<title>shape9</title>
+				<path d="M0 99.83 L17.1 99.83 L17.1 100.96 L0 100.96 L0 99.83 Z" class="st2"/>
+			</g>
+			<g id="shape3042-32" v:mID="3042" v:groupContext="shape" transform="translate(15.09,-94.5075)">
+				<title>shape10</title>
+				<path d="M2.17 96.01 L11.7 96.01 L13.87 100.96 L0 100.96 L2.17 96.01 Z" class="st1"/>
+			</g>
+			<g id="group3043-35" transform="translate(6.7275,-19.5375)" v:mID="3043" v:groupContext="group">
+				<title>工作表.3043</title>
+				<g id="shape3044-36" v:mID="3044" v:groupContext="shape">
+					<title>shape11</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3045-40" v:mID="3045" v:groupContext="shape" transform="translate(7.185,1.42109E-14)">
+					<title>shape12</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3046-43" v:mID="3046" v:groupContext="shape" transform="translate(14.3775,1.42109E-14)">
+					<title>shape13</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3047-46" v:mID="3047" v:groupContext="shape" transform="translate(21.5625,1.42109E-14)">
+					<title>shape14</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3048-49" v:mID="3048" v:groupContext="shape" transform="translate(28.7475,1.42109E-14)">
+					<title>shape15</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+			</g>
+			<g id="group3049-52" transform="translate(6.7275,-22.8075)" v:mID="3049" v:groupContext="group">
+				<title>工作表.3049</title>
+				<g id="shape3050-53" v:mID="3050" v:groupContext="shape">
+					<title>shape16</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3051-56" v:mID="3051" v:groupContext="shape" transform="translate(7.185,1.42109E-14)">
+					<title>shape17</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3052-59" v:mID="3052" v:groupContext="shape" transform="translate(14.3775,1.42109E-14)">
+					<title>shape18</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3053-62" v:mID="3053" v:groupContext="shape" transform="translate(21.5625,1.42109E-14)">
+					<title>shape19</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3054-65" v:mID="3054" v:groupContext="shape" transform="translate(28.7475,1.42109E-14)">
+					<title>shape20</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+			</g>
+			<g id="group3055-68" transform="translate(6.7275,-52.905)" v:mID="3055" v:groupContext="group">
+				<title>工作表.3055</title>
+				<g id="shape3056-69" v:mID="3056" v:groupContext="shape">
+					<title>shape21</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3057-72" v:mID="3057" v:groupContext="shape" transform="translate(7.185,1.42109E-14)">
+					<title>shape22</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3058-75" v:mID="3058" v:groupContext="shape" transform="translate(14.3775,1.42109E-14)">
+					<title>shape23</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3059-78" v:mID="3059" v:groupContext="shape" transform="translate(21.5625,1.42109E-14)">
+					<title>shape24</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3060-81" v:mID="3060" v:groupContext="shape" transform="translate(28.7475,1.42109E-14)">
+					<title>shape25</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+			</g>
+			<g id="group3061-84" transform="translate(6.7275,-56.175)" v:mID="3061" v:groupContext="group">
+				<title>工作表.3061</title>
+				<g id="shape3062-85" v:mID="3062" v:groupContext="shape">
+					<title>shape26</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3063-88" v:mID="3063" v:groupContext="shape" transform="translate(7.185,1.42109E-14)">
+					<title>shape27</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3064-91" v:mID="3064" v:groupContext="shape" transform="translate(14.3775,1.42109E-14)">
+					<title>shape28</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3065-94" v:mID="3065" v:groupContext="shape" transform="translate(21.5625,1.42109E-14)">
+					<title>shape29</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3066-97" v:mID="3066" v:groupContext="shape" transform="translate(28.7475,1.42109E-14)">
+					<title>shape30</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+			</g>
+			<g id="group3067-100" transform="translate(6.7275,-71.3325)" v:mID="3067" v:groupContext="group">
+				<title>工作表.3067</title>
+				<g id="shape3068-101" v:mID="3068" v:groupContext="shape">
+					<title>shape31</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3069-104" v:mID="3069" v:groupContext="shape" transform="translate(7.185,1.42109E-14)">
+					<title>shape32</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3070-107" v:mID="3070" v:groupContext="shape" transform="translate(14.3775,1.42109E-14)">
+					<title>shape33</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3071-110" v:mID="3071" v:groupContext="shape" transform="translate(21.5625,1.42109E-14)">
+					<title>shape34</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3072-113" v:mID="3072" v:groupContext="shape" transform="translate(28.7475,1.42109E-14)">
+					<title>shape35</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+			</g>
+			<g id="group3073-116" transform="translate(6.7275,-74.6025)" v:mID="3073" v:groupContext="group">
+				<title>工作表.3073</title>
+				<g id="shape3074-117" v:mID="3074" v:groupContext="shape">
+					<title>shape36</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3075-120" v:mID="3075" v:groupContext="shape" transform="translate(7.185,1.42109E-14)">
+					<title>shape37</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3076-123" v:mID="3076" v:groupContext="shape" transform="translate(14.3775,1.42109E-14)">
+					<title>shape38</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3077-126" v:mID="3077" v:groupContext="shape" transform="translate(21.5625,1.42109E-14)">
+					<title>shape39</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3078-129" v:mID="3078" v:groupContext="shape" transform="translate(28.7475,1.42109E-14)">
+					<title>shape40</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+			</g>
+			<g id="group3079-132" transform="translate(6.7275,-4.215)" v:mID="3079" v:groupContext="group">
+				<title>工作表.3079</title>
+				<g id="shape3080-133" v:mID="3080" v:groupContext="shape">
+					<title>shape41</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3081-136" v:mID="3081" v:groupContext="shape" transform="translate(7.185,1.42109E-14)">
+					<title>shape42</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3082-139" v:mID="3082" v:groupContext="shape" transform="translate(14.3775,1.42109E-14)">
+					<title>shape43</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3083-142" v:mID="3083" v:groupContext="shape" transform="translate(21.5625,1.42109E-14)">
+					<title>shape44</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+				<g id="shape3084-145" v:mID="3084" v:groupContext="shape" transform="translate(28.7475,1.42109E-14)">
+					<title>shape45</title>
+					<path d="M0 100.96 L1.87 100.96 L1.87 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+				</g>
+			</g>
+			<g id="shape3085-148" v:mID="3085" v:groupContext="shape" transform="translate(16.7325,-80.79)">
+				<title>shape46</title>
+				<path d="M0 100.96 L1.88 100.96 L1.88 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+			</g>
+			<g id="shape3086-151" v:mID="3086" v:groupContext="shape" transform="translate(21.2625,-80.79)">
+				<title>shape47</title>
+				<path d="M0 100.96 L1.88 100.96 L1.88 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+			</g>
+			<g id="shape3087-154" v:mID="3087" v:groupContext="shape" transform="translate(25.7925,-80.79)">
+				<title>shape48</title>
+				<path d="M0 100.96 L1.88 100.96 L1.88 99.16 L0 99.16 L0 100.96 Z" class="st4"/>
+			</g>
+			<g id="shape3088-157" v:mID="3088" v:groupContext="shape" transform="translate(1.065,1.42109E-14)">
+				<title>shape49</title>
+				<path d="M0 96.61 L41.93 96.61 L41.93 100.96 L0 100.96 L0 96.61 Z" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>
