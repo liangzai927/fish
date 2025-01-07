@@ -1,11 +1,11 @@
 <template>
   <div class="home">
-    <van-nav-bar
+    <!-- <van-nav-bar
       class="fixed-nav-bar"
       :title="$t(`${title}`)"
       :left-arrow="isShowReturn"
       @click-left="onClickLeft"
-    />
+    /> -->
     <div class="content" :style="{ height: contentHeight }">
       <router-view></router-view>
     </div>
@@ -26,15 +26,14 @@
 </template>
 
 <script setup lang="ts">
-
-
 const homeList = ["/home", "/my"];
 const route = useRoute();
 const router = useRouter();
 const active = ref();
-const  contentHeight = ref(homeList.includes(route.path)
-      ? "calc(100vh - 46px - 50px)"
-      : "calc(100vh - 46px)")
+const contentHeight = ref("calc(100vh - 50px)");
+// const  contentHeight = ref(homeList.includes(route.path)
+//       ? "calc(100vh - 46px - 50px)"
+//       : "calc(100vh - 46px)")
 
 // const contentHeight = computed({
 //   get() {
@@ -72,9 +71,7 @@ const onClickLeft = () => {
   }
 };
 
-
 const changePage = () => {
-  console.log(active.value)
   switch (active.value) {
     case 0:
       return router.push("/home");
@@ -87,19 +84,19 @@ const changePage = () => {
   }
 };
 
-watch(
-  () => route.path,
-  (val: any) => {
-    if (homeList.includes(val))
-      contentHeight.value = "calc(100vh - 46px - 50px)";
-    else contentHeight.value = "calc(100vh - 46px)";
-  }
-);
+// watch(
+//   () => route.path,
+//   (val: any) => {
+//     if (homeList.includes(val))
+//       contentHeight.value = "calc(100vh - 46px - 50px)";
+//     else contentHeight.value = "calc(100vh - 46px)";
+//   }
+// );
 
 // 设置 active 的方法
 const setActive = (path: string) => {
   const newValue = getActiveIndex(path); // 获取目标值
-  console.log(newValue)
+  console.log(newValue);
   if (active.value !== newValue) {
     active.value = newValue; // 仅在值不同的情况下更新
   }
@@ -136,7 +133,7 @@ onMounted(async () => {
   width: 100vw;
   height: 100vh;
   position: relative;
-  padding-top: 46px;
+  // padding-top: 46px;
 
   .fixed-nav-bar {
     position: fixed;

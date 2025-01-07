@@ -121,6 +121,10 @@ const myMenuList = ref<any[]>([
     name: "登出",
     processLog: "gongyinglian",
   },
+  {
+    name: "成为老板",
+    processLog: "gongyinglian",
+  },
 ]);
 const userStore = useUserStore();
 const curTenant = ref<any>(userStore.tenantData);
